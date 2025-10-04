@@ -80,13 +80,10 @@ go run trapecioPool.go
 Consideraciones técnicas
 
 La versión de C++ usa memoria dinámica (new y delete) para gestionar los arreglos de hilos.
-
 Las versiones con Pool implementan un grupo fijo de hilos o goroutines que reutilizan los recursos.
-
 Se detiene el cálculo cuando el resultado de la integral se mantiene estable entre iteraciones consecutivas.
 
 Autor
-
 Nombre: Cahui Benegas Anthony Ronaldo
 Curso: Programación Paralela y Concurrente
 Universidad: UNSA
