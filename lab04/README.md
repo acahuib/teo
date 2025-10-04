@@ -25,17 +25,15 @@ C++ (gestión de memoria dinámica y uso de Threads)
 Go (goroutines y canales para concurrencia)
 
 Estructura del repositorio
-Lab03_Trapecio/
-│
-├── Trapecio.java
-├── trapecio.cpp
-├── trapecio.go
-│
-├── trapecioPool.java
-├── trapecioPool.cpp
-├── trapecioPool.go
-│
-└── README.md
+Lab03_Trapecio
+- Trapecio.java
+- trapecio.cpp
+- trapecio.go
+- trapecioPool.java
+- trapecioPool.cpp
+- trapecioPool.go
+- Laboratorio TO 04.pdf
+- README.md
 
 Requisitos
 
