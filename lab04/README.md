@@ -89,7 +89,7 @@ Se detiene el cálculo cuando el resultado de la integral se mantiene estable en
 
 Autor
 
-Nombre: Anthony Ronaldo Cahui Benegas
-Curso: Tecnologia de Objetos
-Universidad: Universidad Nacional San Agustin
+Nombre: Cahui Benegas Anthony Ronaldo
+Curso: Programación Paralela y Concurrente
+Universidad: UNSA
 Año: 2025
